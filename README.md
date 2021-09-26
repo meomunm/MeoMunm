@@ -25,4 +25,4 @@ I am completely passionate about make application for mobile with Kotlin and als
 ----
 Credit: [meomunm](https://github.com/meomunm)
 
-Last Edited on: 13/09/2021
+Last Edited on: 26/09/2021
