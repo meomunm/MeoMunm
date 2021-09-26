@@ -8,7 +8,7 @@ I am completely passionate about make application for mobile with Kotlin and als
 <img  style="margin-top:25px" align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" />
 
 
-- 🌱 I’m currently working <img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJyUEdgRMkgGHbaXMK2A0Kt5FiShIMV1xvRF8DVa90FKYNe6GAGqcb9E4tgqHw1tTpCuc&usqp=CAU"></code>
+- 👨‍💻 I’m currently working <img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJyUEdgRMkgGHbaXMK2A0Kt5FiShIMV1xvRF8DVa90FKYNe6GAGqcb9E4tgqHw1tTpCuc&usqp=CAU"></code>
 <img height="20" src="https://sdtimes.com/wp-content/uploads/2018/02/pCfEzr6L_400x400.png"></code>
 <img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNFIf3IyAeNtZsqPvioN7cba7o7s3EvSFsxRiVdnr0WislaXrW23T6WRB0ujHgaAuKsU&usqp=CAU"></code>
 
