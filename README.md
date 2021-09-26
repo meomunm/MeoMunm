@@ -15,8 +15,8 @@ I am completely passionate about make application for mobile with Kotlin and als
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
 - 📫 How to reach me: 
-   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): meomunm#7734 </a>
-   - <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png" style="margin:0px 5px 0px 5px"> [Gmail](mailto:giahungtran1996@gmail.com)
+   - <a><img style="padding:0px 5px 0px 5px" height="25" width="25" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png"> [Discord](https://discord.com/): meomunm#7734 </a>
+   - <img style="padding:0px 5px 0px 5px" height="25" width="25" src="https://www.pnglib.com/wp-content/uploads/2021/02/red-email_60208907394db.png" > [Gmail](mailto:giahungtran1996@gmail.com)
 
 <img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=meomunm&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
 />
@@ -25,4 +25,4 @@ I am completely passionate about make application for mobile with Kotlin and als
 ----
 Credit: [meomunm](https://github.com/meomunm)
 
-Last Edited on: 26/09/2021
+Last Edited on: 13/09/2021
