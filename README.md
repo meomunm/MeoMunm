@@ -2,7 +2,7 @@
 
 
 
-My name is **Gia Hung**, I'm 25 years old and I'm a mobile developer at technology company in Viet Nam.
+My name is **Gia Hung**, I'm a mobile developer at technology company in Viet Nam.
 I am completely passionate about make application for mobile with Kotlin and also very interested in Flutter.
 
 <img  style="margin-top:25px" align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" />
